@@ -1,6 +1,3 @@
-- file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
-- file: content/test
+# In _toc.yml
+- file: landing-page
+- file: page1
